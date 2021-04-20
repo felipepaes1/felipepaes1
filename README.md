@@ -1,5 +1,5 @@
 - 🤘  Hey, I'm Felipe Paes (Technology Teacher and Web Developer)
-- 📫 You can find me on instagran (@felipepaesss) or search for 'Felipe Paes' on linkedin
+- 📫 You can find me on instagram (@felipepaesss) or search for 'Felipe Paes' on linkedin
 - ⌨️ Actually in the world/inside of some projects with Typescript, Angular and PHP
 - 💻 Got some interest in SASS, JS, Python, C++ and ladder
 - 💞️ Serious relationship with TCC and my job
