@@ -8,5 +8,5 @@
 - 🥁Drummer
 - 🏋🏽Crossfit/gym
 - 🔥We can find the fire inside of our bodies
-Enthusiast and dreamer.
+- Enthusiast and dreamer.
 
