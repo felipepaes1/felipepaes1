@@ -4,6 +4,7 @@
 - 💻 Got some interest in SASS, JS, Python, C++ and ladder
 - 💞️ Serious relationship with TCC and my job
 - 🦾 Mechatronic Engineer 9/10
+
 <------------------------------------------>
 💣Official R2 of Brazilian Army (Artillery)
 🥁Drummer
