@@ -1,12 +1,10 @@
-- 🤘  Hey, I'm Felipe Paes (Technology Teacher and Web Developer)
+- 🤘  Hey, I'm Felipe Paes (Programming Teacher and Developer)
 - 📫 You can find me on instagram (@felipepaesss) or search for 'Felipe Paes' on linkedin
-- ⌨️ Actually in the world/inside of some projects with Typescript, Angular and PHP
-- 💻 Got some interest in SASS, JS, Python, C++ and ladder
-- 💞️ Serious relationship with TCC and my job
-- 🦾 Mechatronic Engineer 9/10
+- ⌨️ Have worked in the world/inside of some projects with Typescript, Angular, PHP, Docker, Python, JS, C, C++.
+- 💻 Got some interest in SASS, JS, Python, AI, C++ and ladder
+- 🦾 Mechatronic Engineer
 - 💣Official R2 of Brazilian Army (Artillery)
-- 🥁Drummer
-- 🏋🏽Crossfit/gym
+- 🏋🏽Gym/Table Tennis
 - 🔥We can find the fire inside of our bodies
 - Enthusiast and dreamer.
 
